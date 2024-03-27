@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='energy_offshore',
-    version='0.2.0',
+    version='0.3.0',
     description='Destination Earth ClimateDT app to calculate future conditions for offshore wind power in ice-covered seas.',
     author='Jonni Lehtiranta,
     author_email='jonni.lehtiranta@fmi.fi',
